@@ -13,4 +13,8 @@ $boost=1,site=micro.blog
 /blog/$boost=1
 
 $boost=3,site=https://lava-kiwi-moat.glitch.me/
-$boost=3,https://knowing-mirror-maiasaura.glitch.me/
+$boost=3,site=https://knowing-mirror-maiasaura.glitch.me/
+$boost=3,site=https://www.mentalhealthfirstaid.org/mental-health-resources/
+$boost=3,site=https://www.cdc.gov/mentalhealth/tools-resources/individuals/index.html
+$boost=3,site=https://www.oprah.com/omagazine/free-online-resources-for-mental-illness
+$boost=3,site=https://www.nimh.nih.gov/health/find-help
